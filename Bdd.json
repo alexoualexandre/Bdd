@@ -1,6 +1,20 @@
 [
     {
-        "name":"alex",
-        "lastname":"michiels"
+        "categorie":"science fiction",
+        "series":[
+        {
+        "name":"sliders les mondes parallèles",
+        "img":"sliders.jpg",
+        "year":"1995",
+        "link":"https://1fichier.com/?5oc55cmu7dy9f6v4qqdq&af=3601079"
+        },
+        {
+        "categorie":"science fiction",
+        "name":"stargate sg-1",
+        "img":"stargate.jpg",
+        "year":"1997",
+        "link":"https://1fichier.com/?m1lz7cenvm5ylvg4rt9v&af=4814702"
+        }
+        ]
     }
 ]
