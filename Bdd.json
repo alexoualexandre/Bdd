@@ -13,25 +13,29 @@
         "name":"stargate sg-1",
         "img":"stargate.jpg",
         "year":"1997",
-        "link":"https://1fichier.com/?m1lz7cenvm5ylvg4rt9v&af=4814702"
+        "link":"https://1fichier.com/?m1lz7cenvm5ylvg4rt9v&af=4814702",
+        "link_img":"https://m.media-amazon.com/images/I/91NSWfae4GL._AC_UF1000,1000_QL80_.jpg"
         },
         {
         "name":"X-files",
         "img":"xfiles.webp",
         "year":"1993",
-        "link":"https://1fichier.com/?yjl4m1qglqooabamny45&af=4814702"
+        "link":"https://1fichier.com/?yjl4m1qglqooabamny45&af=4814702",
+        "link_img":"https://fr.web.img4.acsta.net/pictures/19/06/17/11/47/0799736.jpg"
         },
         {
         "name":"Futurama",
         "img":"futurama.png",
         "year":"1999",
-        "link":"https://1fichier.com/?coyxml7czj852r4xg9my&af=3601079"
+        "link":"https://1fichier.com/?coyxml7czj852r4xg9my&af=3601079",
+        "link_img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/47FCE4F29DC1D7C1FC72071B226D58E2FC345B4C258E88683E5250F7A4BA96B4/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp"
         },
         {
         "name":"Supercopter",
         "img":"supercopter.jfif",
         "year":"1984",
-        "link":"https://1fichier.com/?hncd6pljvgjc69yelplj&af=3601079"
+        "link":"https://1fichier.com/?hncd6pljvgjc69yelplj&af=3601079",
+        "link_img":"https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUL1OAnmFuIglu3wmi2DlYFXPNafoSA2pwZxgB/jpg"
         }
        
         ]
@@ -43,31 +47,36 @@
         "name":"Une nounou d'enfer",
         "img":"une-nounou-denfer.webp",
         "year":"1993",
-        "link":"https://1fichier.com/?wbrfquaobj45rmx26rr8&af=3601079"
+        "link":"https://1fichier.com/?wbrfquaobj45rmx26rr8&af=3601079",
+        "link_img":"https://photos.tf1.fr/1200/720/vignette-16-9-une-nounou-denfer-2023-90d888-536574-0@1x.webp"
         },
         {
         "name":"Ma famille d'abord",
         "img":"ma-famille-dabord.webp",
         "year":"2000",
-        "link":"https://1fichier.com/?7ndtw1l8chhbs0loam7c&af=4814702"
+        "link":"https://1fichier.com/?7ndtw1l8chhbs0loam7c&af=4814702",
+        "link_img":"https://fr.web.img3.acsta.net/pictures/21/04/21/13/20/0238240.jpg"
         },
         {
         "name":"La petite maison dans la prairie",
         "img":"la_petite_maison_dans_la_prairie.jpg",
         "year":"1990",
-        "link":"https://1fichier.com/?r25xnqdmfsr5bozw5nip&af=3601079"
+        "link":"https://1fichier.com/?r25xnqdmfsr5bozw5nip&af=3601079",
+        "link_img":"https://media.senscritique.com/media/000006479067/0/la_petite_maison_dans_la_prairie.jpg"
         },
         {
         "name":"Malcolm",
         "img":"malcolm.jpg",
         "year":"2000",
-        "link":"https://1fichier.com/?z2p789ch6adtx2cu008p&af=4814702"
+        "link":"https://1fichier.com/?z2p789ch6adtx2cu008p&af=4814702",
+        "link_img":"https://fr.web.img6.acsta.net/c_310_420/pictures/19/07/04/09/54/2363561.jpg"
         },
         {
         "name":"Mariés deux enfants",
         "img":"mariedeuxenfant.jfif",
         "year":"1987",
-        "link":"https://1fichier.com/?x8lrzx8jzwccv5p5ryn6&af=3601079"
+        "link":"https://1fichier.com/?x8lrzx8jzwccv5p5ryn6&af=3601079",
+        "link_img":"https://images.justwatch.com/poster/303794098/s592/saison-1"
         }
        
         ]
