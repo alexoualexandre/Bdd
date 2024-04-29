@@ -9,11 +9,27 @@
         "link":"https://1fichier.com/?5oc55cmu7dy9f6v4qqdq&af=3601079"
         },
         {
-        "categorie":"science fiction",
         "name":"stargate sg-1",
         "img":"stargate.jpg",
         "year":"1997",
         "link":"https://1fichier.com/?m1lz7cenvm5ylvg4rt9v&af=4814702"
+        },
+        {
+        "name":"X-files",
+        "img":"xfiles.webp",
+        "year":"1993",
+        "link":"https://1fichier.com/?yjl4m1qglqooabamny45&af=4814702"
+        },
+        {
+        "name":"Ma famille d'abord",
+        "img":"ma-famille-dabord.webp",
+        "year":"2000",
+        "link":"https://1fichier.com/?7ndtw1l8chhbs0loam7c&af=4814702"
+        },
+        "name":"Une nounou d'enfer",
+        "img":"une-nounou-denfer.webp",
+        "year":"1993",
+        "link":"https://1fichier.com/?wbrfquaobj45rmx26rr8&af=3601079"
         }
         ]
     }
