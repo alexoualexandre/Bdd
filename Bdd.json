@@ -4,6 +4,7 @@
         "categorie":"science fiction",
         "series":[
         {
+        "section_number":"0",
         "name":"sliders les mondes parallèles",
         "img":"sliders.jpg",
         "year":"1995",
@@ -13,6 +14,7 @@
         "style_caption":"fig_caption"
         },
         {
+        "section_number":"0",
         "name":"stargate sg-1",
         "img":"stargate.jpg",
         "year":"1997",
@@ -22,6 +24,7 @@
         "style_caption":"fig_caption"
         },
         {
+        "section_number":"0",
         "name":"X-files",
         "img":"xfiles.webp",
         "year":"1993",
@@ -31,6 +34,7 @@
         "style_caption":"fig_caption"
         },
         {
+        "section_number":"0",
         "name":"Futurama",
         "img":"futurama.png",
         "year":"1999",
@@ -40,6 +44,7 @@
         "style_caption":"fig_caption"
         },
         {
+        "section_number":"0",
         "name":"Supercopter",
         "img":"supercopter.jfif",
         "year":"1984",
@@ -56,6 +61,7 @@
         "categorie":"Famille",
         "series":[
         {
+        "section_number":"1",
         "name":"Une nounou d'enfer",
         "img":"une-nounou-denfer.webp",
         "year":"1993",
@@ -65,6 +71,7 @@
         "style_caption":"fig_caption_famille"
         },
         {
+        "section_number":"1",
         "name":"Ma famille d'abord",
         "img":"ma-famille-dabord.png",
         "year":"2000",
@@ -74,6 +81,7 @@
         "style_caption":"fig_caption_famille"
         },
         {
+        "section_number":"1",
         "name":"La petite maison dans la prairie",
         "img":"la_petite_maison_dans_la_prairie.jpg",
         "year":"1990",
@@ -83,6 +91,7 @@
         "style_caption":"fig_caption_famille"
         },
         {
+        "section_number":"1",
         "name":"Malcolm",
         "img":"malcolm.jpg",
         "year":"2000",
@@ -92,6 +101,7 @@
         "style_caption":"fig_caption_famille"
         },
         {
+        "section_number":"1",
         "name":"Mariés deux enfants",
         "img":"mariedeuxenfant.jfif",
         "year":"1987",
