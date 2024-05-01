@@ -1,5 +1,6 @@
 [
     {
+        "id":"0",
         "categorie":"science fiction",
         "series":[
         {
@@ -46,6 +47,7 @@
         ]
     },
     {
+        "id":"1",
         "categorie":"Famille",
         "series":[
         {
